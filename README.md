@@ -102,5 +102,5 @@ Steps to contribute:
 
 ## Authors
 - Your Name
-- Email: your.email@example.com
+- Email: omkarb40@gmail.com
 - GitHub: [@omkarb40](https://github.com/omkarb40)
