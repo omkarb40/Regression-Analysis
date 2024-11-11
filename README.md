@@ -99,18 +99,8 @@ Steps to contribute:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Authors
 - Your Name
 - Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## Acknowledgments
-- Karl Pearson for the original dataset
-- The maintainers of the UsingR package
-- The R community for their valuable resources and support
-
----
-**Note**: Replace placeholder text (like yourusername, your.email@example.com) with your actual information before publishing.
+- GitHub: [@omkarb40](https://github.com/omkarb40)
