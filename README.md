@@ -11,7 +11,6 @@ This project implements a classical statistical analysis of Pearson's father-son
 - [Analysis Components](#analysis-components)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 The analysis uses the classic Pearson's father-son height dataset, which is included in the `UsingR` package. This historical dataset contains height measurements (in inches) for 1,078 pairs of fathers and their adult sons, collected by Karl Pearson.
